@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+message MsgHeader{
+  int32 version = 1;
+  enum MsgYype {
+    RegReq = 0;
+    RegRsp = 1;
+    LoginReq = 2;
+    LoginRsp = 3;
+    LogoutReq = 4;
+    LogoutRsp = 5;
+    AddFriendReq = 6;
+    AddFriendRsp = 7;
+    DelFriendReq = 8;
+    DelFriendRsp = 9;
+    PublishMessageReq = 10;
+    PubilishMessageRsp = 11;
+  }
+  MsgYype type = 2;
+}
+
+message RegEeq{
+  MsgHeader header = 1;
+  string user_name = 2;
+  string password = 3;
+  uint32 from = 4;
+}
+
+message RegRsp{
+  MsgHeader header = 1;
+  uint32 ret = 2;
+  uint32 user_id = 3;
+}
+
+message LoginReq{
+  string user_name = 1;
+  string password = 2;
+}
+
+message LoginRsp {
+  uint32 ret = 1;
+  string user_id = 2;
+}

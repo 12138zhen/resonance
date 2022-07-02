@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/lib1/include/Config.h
+string
+-
+
+../src/lib1/include/Rsocket.h
+string_view
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+Config.h
+-
+
+/home/zhenyu/resonance/src/lib1/Rsocket.cpp
+Rsocket.h
+-
+stdexcept
+-
+system_error
+-
+iostream
+-
+

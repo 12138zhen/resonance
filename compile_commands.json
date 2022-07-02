@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/zhenyu/resonance/build/bin/resonance",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/build/bin/resonance/../proto -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/resonance.dir/main.cpp.o -c /home/zhenyu/resonance/src/resonance/main.cpp",
+  "file": "/home/zhenyu/resonance/src/resonance/main.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/Config.cpp.o -c /home/zhenyu/resonance/src/lib1/Config.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/Config.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/MessageMannager.cpp.o -c /home/zhenyu/resonance/src/lib1/MessageMannager.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/MessageMannager.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/PhotoMannager.cpp.o -c /home/zhenyu/resonance/src/lib1/PhotoMannager.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/PhotoMannager.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/RelationManager.cpp.o -c /home/zhenyu/resonance/src/lib1/RelationManager.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/RelationManager.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/Rsocket.cpp.o -c /home/zhenyu/resonance/src/lib1/Rsocket.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/Rsocket.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/UserManager.cpp.o -c /home/zhenyu/resonance/src/lib1/UserManager.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/UserManager.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/lib1",
+  "command": "/usr/bin/g++   -I/home/zhenyu/resonance/src/lib1/include  -g   -std=gnu++2a -o CMakeFiles/lib1.dir/relation.cpp.o -c /home/zhenyu/resonance/src/lib1/relation.cpp",
+  "file": "/home/zhenyu/resonance/src/lib1/relation.cpp"
+},
+{
+  "directory": "/home/zhenyu/resonance/build/bin/proto",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/proto.dir/message.pb.cc.o -c /home/zhenyu/resonance/build/bin/proto/message.pb.cc",
+  "file": "/home/zhenyu/resonance/build/bin/proto/message.pb.cc"
+}
+]
