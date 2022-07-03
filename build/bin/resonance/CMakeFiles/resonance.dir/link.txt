@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/resonance.dir/main.cpp.o  -o resonance  ../lib1/liblib1.a ../proto/libproto.a 
+/usr/sbin/c++ -g CMakeFiles/resonance.dir/main.cpp.o CMakeFiles/resonance.dir/message.pb.cc.o -o resonance  ../lib1/liblib1.a /usr/lib/libprotobuf.so 

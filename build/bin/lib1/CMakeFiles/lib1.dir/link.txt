@@ -1,2 +1,2 @@
-/usr/bin/ar qc liblib1.a  CMakeFiles/lib1.dir/Config.cpp.o CMakeFiles/lib1.dir/MessageMannager.cpp.o CMakeFiles/lib1.dir/PhotoMannager.cpp.o CMakeFiles/lib1.dir/RelationManager.cpp.o CMakeFiles/lib1.dir/Rsocket.cpp.o CMakeFiles/lib1.dir/UserManager.cpp.o CMakeFiles/lib1.dir/relation.cpp.o
-/usr/bin/ranlib liblib1.a
+/usr/sbin/ar qc liblib1.a CMakeFiles/lib1.dir/Config.cpp.o CMakeFiles/lib1.dir/MessageMannager.cpp.o CMakeFiles/lib1.dir/PhotoMannager.cpp.o CMakeFiles/lib1.dir/RelationManager.cpp.o CMakeFiles/lib1.dir/Rsocket.cpp.o CMakeFiles/lib1.dir/UserManager.cpp.o CMakeFiles/lib1.dir/relation.cpp.o
+/usr/sbin/ranlib liblib1.a

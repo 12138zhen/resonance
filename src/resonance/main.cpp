@@ -26,6 +26,7 @@ int main(){
   std::string_view temp = client.recieve_data();
   std::cout << temp << std::endl;
   RegEeq msg;
+  
   msg.mutable_header()->set_version(1);
   msg.set_user_name("Zhenyu Hong");
   msg.set_password("19980518hzy");

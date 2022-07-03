@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/Config.cpp.o -c /home/zhenyu/project/resonance/src/lib1/Config.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/Config.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/MessageMannager.cpp.o -c /home/zhenyu/project/resonance/src/lib1/MessageMannager.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/MessageMannager.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/PhotoMannager.cpp.o -c /home/zhenyu/project/resonance/src/lib1/PhotoMannager.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/PhotoMannager.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/RelationManager.cpp.o -c /home/zhenyu/project/resonance/src/lib1/RelationManager.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/RelationManager.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/Rsocket.cpp.o -c /home/zhenyu/project/resonance/src/lib1/Rsocket.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/Rsocket.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/UserManager.cpp.o -c /home/zhenyu/project/resonance/src/lib1/UserManager.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/UserManager.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/lib1",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/lib1.dir/relation.cpp.o -c /home/zhenyu/project/resonance/src/lib1/relation.cpp",
+  "file": "/home/zhenyu/project/resonance/src/lib1/relation.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/resonance",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/build/bin/resonance -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/resonance.dir/main.cpp.o -c /home/zhenyu/project/resonance/src/resonance/main.cpp",
+  "file": "/home/zhenyu/project/resonance/src/resonance/main.cpp"
+},
+{
+  "directory": "/home/zhenyu/project/resonance/build/bin/resonance",
+  "command": "/usr/sbin/c++  -I/home/zhenyu/project/resonance/build/bin/resonance -I/home/zhenyu/project/resonance/src/lib1/include -g -std=gnu++20 -o CMakeFiles/resonance.dir/message.pb.cc.o -c /home/zhenyu/project/resonance/build/bin/resonance/message.pb.cc",
+  "file": "/home/zhenyu/project/resonance/build/bin/resonance/message.pb.cc"
+}
+]

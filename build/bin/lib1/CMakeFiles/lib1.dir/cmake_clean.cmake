@@ -1,11 +1,18 @@
 file(REMOVE_RECURSE
   "CMakeFiles/lib1.dir/Config.cpp.o"
+  "CMakeFiles/lib1.dir/Config.cpp.o.d"
   "CMakeFiles/lib1.dir/MessageMannager.cpp.o"
+  "CMakeFiles/lib1.dir/MessageMannager.cpp.o.d"
   "CMakeFiles/lib1.dir/PhotoMannager.cpp.o"
+  "CMakeFiles/lib1.dir/PhotoMannager.cpp.o.d"
   "CMakeFiles/lib1.dir/RelationManager.cpp.o"
+  "CMakeFiles/lib1.dir/RelationManager.cpp.o.d"
   "CMakeFiles/lib1.dir/Rsocket.cpp.o"
+  "CMakeFiles/lib1.dir/Rsocket.cpp.o.d"
   "CMakeFiles/lib1.dir/UserManager.cpp.o"
+  "CMakeFiles/lib1.dir/UserManager.cpp.o.d"
   "CMakeFiles/lib1.dir/relation.cpp.o"
+  "CMakeFiles/lib1.dir/relation.cpp.o.d"
   "liblib1.a"
   "liblib1.pdb"
 )

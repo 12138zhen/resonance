@@ -1,2 +1,2 @@
 # Hashes of file build rules.
-24123a068cecdc1524e6c6d71ca070dd bin/proto/message.pb.h
+62245b768fe303d8421a97645cee4745 bin/resonance/message.pb.h
